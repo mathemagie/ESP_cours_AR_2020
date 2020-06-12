@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7N
   
   Ne pas hésiter à s'inscrire sur le groupe FB Spark AR Francophone : https://www.facebook.com/groups/2438866923069061/ 
   
-  et un billet d'intro avec quelques bonne ressources : https://www.facebook.com/groups/2438866923069061/permalink/2716824381939979/
+  et un billet d'intro avec quelques bonnes ressources : https://www.facebook.com/groups/2438866923069061/permalink/2716824381939979/
   
   * LensStudio de Snapchat : https://lensstudio.snapchat.com/ 
   
