@@ -19,7 +19,7 @@ https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7N
   
   * https://www.8thwall.com/ 
   
-  * 
+  * https://www.minsar.app/ (Outil nocode de prototypage AR/VR)
   
   
   
