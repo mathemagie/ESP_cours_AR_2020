@@ -27,7 +27,10 @@ https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7N
   
   # Ressources bibliographiques 
   
-  * 
+  * Charlie Fink's Metaverse - an AR Enabled Guide to VR and AR : https://finkmetaverse.com/ 
+  * Augmented Human: How Technology Is Shaping the New Reality : https://www.amazon.com/Augmented-Human-Technology-Shaping-Reality/dp/1491928328 
+  * https://fr.wikipedia.org/wiki/Rainbows_End
+   
 
   
   
