@@ -21,6 +21,10 @@ https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7N
   
   * https://www.minsar.app/ (Outil nocode de prototypage AR/VR)
   
+  * https://ar-js-org.github.io/AR.js-Docs/ (AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.)
+  
+  * https://developer.apple.com/augmented-reality/reality-composer/ (Now anyone can quickly prototype and produce content for AR experiences that are ready to integrate into apps using Xcode or export to AR Quick Look. Reality Composer lets you build animations and interactions on iPhone, iPad, and Mac to enrich your 3D content.) 
+  
   
   
   
