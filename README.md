@@ -17,6 +17,10 @@ https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7N
   
   Dans l'actualité : https://www.theverge.com/2020/6/11/21286537/snap-minis-snapchat-partner-summit-2020-announcements 
   
+  https://techcrunch.com/2020/06/11/snapchat-boosts-its-ar-platform-with-voice-search-local-lenses-and-snapml/
+  
+  https://shodu.substack.com/p/the-four-pillars-of-augmented-reality
+  
   * https://www.8thwall.com/ 
   
   * https://www.minsar.app/ (Outil nocode de prototypage AR/VR)
