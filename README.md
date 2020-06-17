@@ -34,6 +34,7 @@ https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7N
   * Charlie Fink's Metaverse - an AR Enabled Guide to VR and AR : https://finkmetaverse.com/ 
   * Augmented Human: How Technology Is Shaping the New Reality : https://www.amazon.com/Augmented-Human-Technology-Shaping-Reality/dp/1491928328 
   * https://fr.wikipedia.org/wiki/Rainbows_End
+  * la vision du futur de la réalité augmentée selon Keiichi Matsuda (le réal de https://www.youtube.com/watch?v=YJg02ivYzSs) : https://drive.google.com/file/d/1UyqFX3zKHOkBlM0M5ggrmYjqa5WxtkRo/view?fbclid=IwAR1MM1gLwzmxMH971O-cMzlbf91Q976Ut4nSBd-9qgY06tYB32AHl2G21cA 
    
 
   
