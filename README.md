@@ -4,6 +4,8 @@ Les slides du premier cours :
 
 https://docs.google.com/presentation/d/1XGPqMjuZQTE2MAVoxHyvH2Uq3q_gGS2G6vkGtb7NAfs/edit?usp=sharing 
 
+Ma conférence "une journée sous LSD" https://www.youtube.com/watch?v=lPRYp4HrdGI qui reprend dans les grandes lignes le contenu du premier cours.
+
 
 
 # Outils développement en réalité augmentée 
