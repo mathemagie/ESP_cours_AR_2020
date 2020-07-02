@@ -47,9 +47,9 @@ How the new iOS 14 UI translates directly to Apple glasses : https://ibuildmyide
 
  # veille informationnel : 
  
- * Ma liste Twiter :  https://twitter.com/i/lists/110531877
+ * Ma liste Twiter "New Realities (AR/VR/XR)" :  https://twitter.com/i/lists/110531877
 
- * Ma newsletter 100% AR/VR : https://nuzzel.com/mathemagie/new-realities-ar-vr-xr/2020/07/02
+ * Ma newsletter 100% AR/VR : https://nuzzel.com/mathemagie/new-realities-ar-vr-xr/
 
   
   
