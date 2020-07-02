@@ -39,7 +39,11 @@ Ma conférence "une journée sous LSD" https://www.youtube.com/watch?v=lPRYp4Hrd
   * https://fr.wikipedia.org/wiki/Rainbows_End
   * la vision du futur de la réalité augmentée selon Keiichi Matsuda (le réal de https://www.youtube.com/watch?v=YJg02ivYzSs) : https://drive.google.com/file/d/1UyqFX3zKHOkBlM0M5ggrmYjqa5WxtkRo/view?fbclid=IwAR1MM1gLwzmxMH971O-cMzlbf91Q976Ut4nSBd-9qgY06tYB32AHl2G21cA 
   * The Infinite Retina: Spatial Computing, Augmented Reality, and how a collision of new technologies are bringing about the next tech revolution : https://www.amazon.fr/Infinite-Retina-Computing-technologies-revolution-ebook/dp/B086PZMBMW/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=infinite+retina&qid=1593676119&sr=8-1 
-   
+  
+  
+  # Apple glasses
+
+How the new iOS 14 UI translates directly to Apple glasses : https://ibuildmyideas.substack.com/p/glassos    
 
   
   
