@@ -31,8 +31,6 @@ Ma conférence "une journée sous LSD" https://www.youtube.com/watch?v=lPRYp4Hrd
   
   * https://developer.apple.com/augmented-reality/reality-composer/ (Now anyone can quickly prototype and produce content for AR experiences that are ready to integrate into apps using Xcode or export to AR Quick Look. Reality Composer lets you build animations and interactions on iPhone, iPad, and Mac to enrich your 3D content.) 
   
-
-  nota bene pour le prof : 3 sur Lens Studio, 2 sur Spark
   
   # Ressources bibliographiques 
   
